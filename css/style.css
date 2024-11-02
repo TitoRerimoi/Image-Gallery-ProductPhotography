@@ -1,0 +1,40 @@
+body{
+   background: #4b4949;
+   color: #fff;
+} 
+ 
+ .gallery{
+    margin: 0px 120px;
+ }
+
+ .gallery img{
+    transition: 1s;
+    padding: 15px;
+    width: 250px;
+ }
+
+ .gallery img:hover{
+    filter: grayscale(100%);
+    transform: scale(1.1);
+ }
+
+/*Text Styling*/
+
+ .header-text{
+   margin-top: 20%;
+   font-size: 28px;
+   text-align: center;
+
+}
+.header-text h1{
+   font-size: 45px;
+   margin-top: 20px;
+} 
+.header-text h1 span{
+   color: #1a61ff;
+}
+.header-text p{
+   font-size: 20px;
+   margin-top: 20px;
+   color: #000000;
+}
