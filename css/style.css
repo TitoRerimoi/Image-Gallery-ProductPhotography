@@ -35,6 +35,8 @@ body{
 .header-text h1{
    font-size: 45px;
    margin-top: 20px;
+   color: #000000;
+   font-weight: bold;
 } 
 .header-text h1 span{
    color: #1a61ff;
@@ -42,5 +44,6 @@ body{
 .header-text p{
    font-size: 20px;
    margin-top: 20px;
-   color: #fff;
+   color: #000000;
+   font-weight: bold;
 }
